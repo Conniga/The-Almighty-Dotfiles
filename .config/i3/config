@@ -210,6 +210,9 @@ exec --no-startup-id "bluetoothctl power on"
 # Start automatic disk mounter (udiskie)
 exec --no-startup-id "udiskie -t -a"
 
+# Start blue light filter
+exec --no-startup-id "blugon"
+
 # Interactive menu to change gap sizes
 set $mode_gaps Gaps: (o)uter, (i)nner, (h)orizontal, (v)ertical, (t)op, (r)ight, (b)ottom, (l)eft
 set $mode_gaps_outer Outer Gaps: +|-|0 (local), Shift + +|-|0 (global)
