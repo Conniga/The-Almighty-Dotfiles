@@ -22,3 +22,5 @@ source ~/.cache/wal/colors-tty.sh
 alias cava='cava -p ~/.cache/wal/cavaconfig'
 
 alias neofetch='neofetch --source ~/Pictures/himeno.png --loop'
+
+alias ncmpcpp='mpd & ncmpcpp'
