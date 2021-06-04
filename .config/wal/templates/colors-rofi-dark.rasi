@@ -3,6 +3,9 @@
 configuration {{
 display-drun: "Apps";
 display-window: "Window";
+fullscreen: true;
+hide-scrollbar: false;
+columns: 2;
 }}
 
 * {{
@@ -32,13 +35,13 @@ display-window: "Window";
     foreground: {foreground};
     border-color: @background;
     spacing: 2;
-    font: "JetBrains Mono Light 12";
+    font: "JetBrains Mono NL 12";
 }}
 
 #window {{
     background-color: @background;
     border: 0;
-    padding: 2.5ch;
+    padding: 70;
 }}
 
 #mainbox {{
@@ -127,10 +130,11 @@ display-window: "Window";
     text-color: @alternate-active-foreground;
 }}
 
-#scrollbar {{
-    width: 4px;
+scrollbar {{
+    width: 0px;
     border: 0;
-    handle-width: 8px;
+    handle-width: 4px;
+    handle-color: @normal-foreground;
     padding: 0;
 }}
 
