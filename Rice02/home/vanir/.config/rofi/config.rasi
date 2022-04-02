@@ -1,0 +1,9 @@
+/** Basic config file **/
+
+configuration {
+  show-icons:         false;
+  icon-theme:         "Papirus";
+  drun-display-format: "{name}";
+}
+//@theme "/usr/share/rofi/themes/arthur.rasi"
+@theme "/home/vanir/.config/rofi/dmenu.rasi"
