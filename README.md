@@ -1,14 +1,20 @@
 # The-Almighty-Dotfiles
 
+Version II (3/4/2022)
 
+_Seamless (an attempt)_
 
-Version II (19/3/2022)
+![Desktop-3](https://user-images.githubusercontent.com/73924040/161368928-42ad884d-47b1-4fb4-a4b6-7731a4dc2cfe.png)
+
+---
+
+Version I.2 (19/3/2022)
 
 _Same rice different system, now in 1920x1080_
 
 ![Desktop-2](https://user-images.githubusercontent.com/73924040/159114275-a8cf98a1-a05b-4859-bcaf-e5dc5572c29d.png)
 
----
+//
 
 Version I (4/6/2021)
 
